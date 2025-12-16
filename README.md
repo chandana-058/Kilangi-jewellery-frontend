@@ -28,10 +28,3 @@ kilangi-jewellery-frontend/
 │   └── icons/
 └── README.md
 
-
-
-Author
-Chandana
-Frontend Developer  
----
-© 2025 Kilangi Jewellery – Frontend Assignment
