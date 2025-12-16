@@ -17,14 +17,19 @@ Features
 Project Structure
 
 kilangi-jewellery-frontend/
+
 │
 ├── index.html
+
 ├── css/
 │   └── style.css
+
 ├── js/
 │   └── script.js
+
 ├── assets/
 │   ├── images/
-│   └── icons/
+│   └── icons
+
 └── README.md
 
